@@ -1,0 +1,223 @@
+{
+    "Abroad": {
+
+        "borrower" : [
+            {
+                "key": 1,
+                "value": "10th Marksheet & Certificate"
+            },
+            {
+                "key": 2,
+                "value": "12th Marksheet & Certificate"
+            },
+            {
+                "key": 3,
+                "value": "Graduation Marksheet & Certificate"
+            },
+            {
+                "key": 4,
+                "value": "Entrance score card – GRE/TOEFL/IELTS Or Others"
+            },
+            {
+                "key": 5,
+                "value": "College/University Offer letter and fee structure"
+            },
+            {
+                "key": 6,
+                "value": "KYC-Pan and Adhar card"
+            },
+            {
+                "key": 7,
+                "value": "Student work experience – If available"
+            },
+            {
+                "key": 8,
+                "value": "Latest 6 month salary bank statement upto till date"
+            },
+            {
+                "key": 9,
+                "value": "Latest 3 month Payslips"
+            },
+            {
+                "key": 10,
+                "value": "Latest 2 year form -16/ITR"
+            },
+            {
+                "key": 11,
+                "value": "Passport size photograph"
+            },
+            {
+                "key": 12,
+                "value": "Parents Pan and Adhar card"
+            }
+        ],
+
+        "cosigner" : [
+            {
+                "name": "Parents Pan and Adhar card",
+                "value": "Parents Pan and Adhar card"
+            },
+            {
+                "name": "Passport size photograph",
+                "value": "Passport size photograph"
+            },
+            {
+                "name": "Latest month's electricity bill",
+                "value": "Latest month's electricity bill"
+            },
+            {
+                "name": "If Self employed : Latest 2 year ITR (Acknowledgement, computation, balance sheet and profit and loss)",
+                "value": "If Self employed : Latest 2 year ITR (Acknowledgement, computation, balance sheet and profit and loss)"
+            },
+            {
+                "name": "Latest 6 months saving bank account statement upto till date and 8 months bank account statement upto till date",
+                "value": "Latest 6 months saving bank account statement upto till date and 8 months bank account statement upto till date"
+            },
+            {
+                "name": "Business proof",
+                "value": "Business proof"
+            },
+            {
+                "name": "If Employed : Latest 2 year ITR",
+                "value": "If Employed : Latest 2 year ITR"
+            },
+            {
+                "name": "(Latest 6 month salary bank statement upto till date",
+                "value": "(Latest 6 month salary bank statement upto till date"
+            },
+            {
+                "name": "(Latest 3 month Payslips)",
+                "value": "(Latest 3 month Payslips)"
+            }
+        ]
+    },
+    "Domestic": {
+        "borrower": [
+            {
+                "name": "10th Marksheet & Certificate",
+                "value": "10th Marksheet & Certificate"
+            },
+            {
+                "name": "12th Marksheet & Certificate",
+                "value": "12th Marksheet & Certificate"
+            },
+            {
+                "name": "Graduation Marksheet & Certificate",
+                "value": "Graduation Marksheet & Certificate"
+            },
+            {
+                "name": "College/University Offer letter and fee structure",
+                "value": "College/University Offer letter and fee structure"
+            },
+            {
+                "name": "Pan and Adhar card",
+                "value": "Pan and Adhar card"
+            },
+            {
+                "name": "Student work experience – If available",
+                "value": "Student work experience – If available"
+            },
+            {
+                "name": "(Latest 6 month salary bank statement upto till date",
+                "value": "(Latest 6 month salary bank statement upto till date"
+            },
+            {
+                "name": "(Latest 3 month Payslips)",
+                "value": "(Latest 3 month Payslips)"
+            },
+            {
+                "name": "(Latest 2 year form -16/ITR)",
+                "value": "(Latest 2 year form -16/ITR)"
+            },
+            {
+                "name": "Passport size photograph",
+                "value": "Passport size photograph"
+            }
+        ],
+        "cosigner": [
+            {
+                "name": "Parents Pan and Adhar card",
+                "value": "Parents Pan and Adhar card"
+            },
+            {
+                "name": "Passport size photograph",
+                "value": "Passport size photograph"
+            },
+            {
+                "name": "Latest month's electricity bill",
+                "value": "Latest month's electricity bill"
+            },
+            {
+                "name": "If Self employed : Latest 2 year ITR (Acknowledgement, computation, balance sheet and profit and loss)",
+                "value": "If Self employed : Latest 2 year ITR (Acknowledgement, computation, balance sheet and profit and loss)"
+            },
+            {
+                "name": "Latest 6 months saving bank account statement upto till date and 8 months bank account statement upto till date",
+                "value": "Latest 6 months saving bank account statement upto till date and 8 months bank account statement upto till date"
+            },
+            {
+                "name": "Business proof",
+                "value": "Business proof"
+            },
+            {
+                "name": "If Employed : Latest 2 year ITR",
+                "value": "If Employed : Latest 2 year ITR"
+            },
+            {
+                "name": "(Latest 6 month salary bank statement upto till date",
+                "value": "(Latest 6 month salary bank statement upto till date"
+            },
+            {
+                "name": "(Latest 3 month Payslips)",
+                "value": "(Latest 3 month Payslips)"
+            }
+        ]
+    },
+    "Personal": {
+        "borrower":[
+        {
+            "name": "KYC - Pan and Adhar card",
+            "value": "KYC - Pan and Adhar card"
+        },
+        {
+            "name": "Passport size photograph",
+            "value": "Passport size photograph"
+        },
+        {
+            "name": "Work experience documents",
+            "value": "Work experience documents"
+        },
+        {
+            "name": "Salary slip as per occupation",
+            "value": "Salary slip as per occupation"
+        },
+        {
+            "name": "Latest 3 month bank statement upto till date",
+            "value": "Latest 3 month bank statement upto till date"
+        },
+        {
+            "name": "Other financial documents, if required",
+            "value": "Other financial documents, if required"
+        }
+    ]
+},
+    "Business": {
+        "borrower":[
+        {
+            "name": "KYC - Pan and Adhar card",
+            "value": "KYC - Pan and Adhar card"
+        },
+        {
+            "name": "Passport size photograph",
+            "value": "Passport size photograph"
+        },
+        {
+            "name": "Work document: 6 month bank statement upto till date and business proof as per occupation",
+            "value": "Work document: 6 month bank statement upto till date and business proof as per occupation"
+        },
+        {
+            "name": "Other financial documents, if required",
+            "value": "Other financial documents, if required"
+        }
+    ]}
+}

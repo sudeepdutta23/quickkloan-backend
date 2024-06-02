@@ -1,0 +1,163 @@
+{
+    
+    "1":{
+        "loan_amount": {
+            "label": "Loan Amount",
+            "name": "loan_amount",
+            "disabled" : false,
+            "value": null, 
+            "type": "number",
+            "order" : 1,
+            "regex" : "",
+            "required" : true		
+        },    
+        "loan_type": {
+            "label": "Loan Type",
+            "name": "loan_type",
+            "disabled" : false,
+            "value": null,
+            "type": "select",
+            "order" : 11,
+            "regex" : "",    
+            "options" : [
+                {
+                    "label" : 1, "value": 2 
+                }
+            ]
+        },
+        "current_address": {
+            "label": "Current Address",
+            "name": "Current Address",
+            "disabled" : false,
+            "value": null, 
+            "type": "text",
+            "order" : 1,
+            "regex" : "",
+            "required" : true		
+        },
+        "permanent_address": {
+            "label": "Permanent Address",
+            "name": "Permanent Address",
+            "disabled" : false,
+            "value": null, 
+            "type": "text",
+            "order" : 1,
+            "regex" : "",
+            "required" : true		
+        }
+    },
+
+    "2":{
+
+        "first_name": {
+            "label": "First Name",
+            "name": "first_name",
+            "disabled" : false,
+            "value": null, 
+            "type": "text",
+            "order" : 1,
+            "regex" : "",
+            "required" : true		
+        }, 
+        "last_name": {
+            "label": "Last Name",
+            "name": "last_name",
+            "disabled" : false,
+            "value": null, 
+            "type": "text",
+            "order" : 1,
+            "regex" : "",
+            "required" : true		
+        },    
+        "email_id": {
+            "label": "Email Id",
+            "name": "email_id",
+            "disabled" : false,
+            "value": null,
+            "type": "email",
+            "order" : 1,
+            "regex" : "",
+            "required" : true		
+        },
+        "mobile_no": {
+            "label": "Current Address",
+            "name": "Current Address",
+            "disabled" : false,
+            "value": null, 
+            "type": "text",
+            "order" : 1,
+            "regex" : "",
+            "required" : true		
+        },
+        "current_address": {
+            "label": "Current Address",
+            "name": "Current Address",
+            "disabled" : false,
+            "value": null, 
+            "type": "text",
+            "order" : 1,
+            "regex" : "",
+            "required" : true		
+        },
+        "permanent_address": {
+            "label": "Permanent Address",
+            "name": "Permanent Address",
+            "disabled" : false,
+            "value": null, 
+            "type": "text",
+            "order" : 1,
+            "regex" : "",
+            "required" : true		
+        },
+        "country_name": {
+            "label": "Select Country",
+            "name": "country_name",
+            "disabled" : false,
+            "value": null,
+            "type": "",
+            "order" : 1,
+            "regex" : "",    
+            "options" : [{         
+                "value":null
+            }]
+        },
+        "course_name": {
+            "label": "Select Course",
+            "name": "course_name",
+            "disabled" : false,
+            "value": null,
+            "type": "",
+            "order" : 1,
+            "regex" : "",    
+            "options" : [{         
+                "value":null
+            }]
+        },
+        "employment_type": {
+            "label": "Employment Type",
+            "name": "employment_type",
+            "disabled" : false,
+            "value": null, 
+            "type": "",
+            "order" : 1,
+            "regex" : "",    
+            "options" : [{         
+                "value":null
+            }]
+        },
+        "salary": {
+            "label": "salary",
+            "name": "salary",
+            "disabled" : false,
+            "value": null, 
+            "type": "number",
+            "order" : 1,
+            "regex" : "",
+            "required" : true		
+        }
+    }
+}
+
+
+
+

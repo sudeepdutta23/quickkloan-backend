@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/582.4a3f8e4a.chunk.css","mappings":"AAAA,QAEI,qBAAsB,CACtB,qBAAsB,CACtB,gBACJ","sources":["pages/Admin/Login/style.css"],"sourcesContent":[".backgr{\r\n    /* background-image: url(\"images/login/blueBackground.jpg\"); */\r\n    background-size: cover;\r\n    box-sizing: border-box;\r\n    min-height: 100vh;\r\n}"],"names":[],"sourceRoot":""}

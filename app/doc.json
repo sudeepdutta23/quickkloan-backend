@@ -1,0 +1,266 @@
+{
+    "1": {
+        "borrower" : [
+            {
+                "name": "10th Marksheet & Certificate",
+                "value": "10th Marksheet & Certificate",
+                "id": 1
+            },
+            {
+                "name": "12th Marksheet & Certificate",
+                "value": "12th Marksheet & Certificate",
+                "id": 2
+            },
+            {
+                "name": "Graduation Marksheet & Certificate",
+                "value": "Graduation Marksheet & Certificate",
+                "id": 3
+            },
+            {
+                "name": "Entrance score card – GRE/TOEFL/IELTS Or Others",
+                "value": "Entrance score card – GRE/TOEFL/IELTS Or Others",
+                "id": 4
+            },
+            {
+                "name": "College/University Offer letter and fee structure",
+                "value": "College/University Offer letter and fee structure",
+                "id": 5
+            },
+            {
+                "name": "KYC-Pan and Aadhaar card",
+                "value": "KYC-Pan and Aadhaar card",
+                "id": 6
+            },
+            {
+                "name": "Student work experience – If available",
+                "value": "Student work experience – If available",
+                "id": 7
+            },
+            {
+                "name": "Latest 6 month salary bank statement upto till date",
+                "value": "Latest 6 month salary bank statement upto till date",
+                "id": 8
+            },
+            {
+                "name": "Latest 3 month Payslips",
+                "value": "Latest 3 month Payslips",
+                "id": 9
+            },
+            {
+                "name": "Latest 2 year form -16/ITR",
+                "value": "Latest 2 year form -16/ITR",
+                "id": 10
+            },
+            {
+                "name": "Passport size photograph",
+                "value": "Passport size photograph",
+                "id": 11
+            }
+        ],
+        "cosigner" : [
+            {
+                "name": "Parents Pan and Aadhaar card",
+                "value": "Parents Pan and Aadhaar card",
+                "id": 12
+            },
+            {
+                "name": "Passport size photograph",
+                "value": "Passport size photograph",
+                "id": 11
+            },
+            {
+                "name": "Latest month's electricity bill",
+                "value": "Latest month's electricity bill",
+                "id": 14
+            },
+            {
+                "name": "If Self employed Latest 2 year ITR (Acknowledgement, computation, balance sheet and profit and loss)",
+                "value": "If Self employed Latest 2 year ITR (Acknowledgement, computation, balance sheet and profit and loss)",
+                "id": 15
+            },
+            {
+                "name": "Latest 6 months saving bank account statement upto till date and 8 months bank account statement upto till date",
+                "value": "Latest 6 months saving bank account statement upto till date and 8 months bank account statement upto till date",
+                "id": 16
+            },
+            {
+                "name": "Business proof",
+                "value": "Business proof",
+                "id": 17
+            },
+            {
+                "name": "If Employed Latest 2 year ITR",
+                "value": "If Employed Latest 2 year ITR",
+                "id": 18
+            },
+            {
+                "name": "Latest 6 month salary bank statement upto till date",
+                "value": "Latest 6 month salary bank statement upto till date",
+                "id": 8
+            },
+            {
+                "name": "Latest 3 month Payslips",
+                "value": "Latest 3 month Payslips",
+                "id": 9
+            }
+        ]
+    },
+    "2": {
+        "borrower": [
+            {
+                "name": "10th Marksheet & Certificate",
+                "value": "10th Marksheet & Certificate",
+                "id": 1
+            },
+            {
+                "name": "12th Marksheet & Certificate",
+                "value": "12th Marksheet & Certificate",
+                "id": 2
+            },
+            {
+                "name": "Graduation Marksheet & Certificate",
+                "value": "Graduation Marksheet & Certificate",
+                "id": 3
+            },
+            {
+                "name": "College/University Offer letter and fee structure",
+                "value": "College/University Offer letter and fee structure",
+                "id": 5
+            },
+            {
+                "name": "KYC-Pan and Aadhaar card",
+                "value": "KYC-Pan and Aadhaar card",
+                "id": 6
+            },
+            {
+                "name": "Student work experience – If available",
+                "value": "Student work experience – If available",
+                "id": 7
+            },
+            {
+                "name": "Latest 6 month salary bank statement upto till date",
+                "value": "Latest 6 month salary bank statement upto till date",
+                "id": 8
+            },
+            {
+                "name": "Latest 3 month Payslips",
+                "value": "Latest 3 month Payslips",
+                "id": 9
+            },
+            {
+                "name": "Latest 2 year form -16/ITR",
+                "value": "Latest 2 year form -16/ITR",
+                "id": 10
+            },
+            {
+                "name": "Passport size photograph",
+                "value": "Passport size photograph",
+                "id": 11
+            }
+        ],
+        "cosigner": [
+            {
+                "name": "Parents Pan and Aaadhaar card",
+                "value": "Parents Pan and Aaadhaar card",
+                "id": 12
+            },
+            {
+                "name": "Passport size photograph",
+                "value": "Passport size photograph",
+                "id": 11
+            },
+            {
+                "name": "Latest month's electricity bill",
+                "value": "Latest month's electricity bill",
+                "id": 14
+            },
+            {
+                "name": "If Self employed Latest 2 year ITR (Acknowledgement, computation, balance sheet and profit and loss)",
+                "value": "If Self employed Latest 2 year ITR (Acknowledgement, computation, balance sheet and profit and loss)",
+                "id": 15
+            },
+            {
+                "name": "Latest 6 months saving bank account statement upto till date and 8 months bank account statement upto till date",
+                "value": "Latest 6 months saving bank account statement upto till date and 8 months bank account statement upto till date",
+                "id": 16
+            },
+            {
+                "name": "Business proof",
+                "value": "Business proof",
+                "id": 17
+            },
+            {
+                "name": "If Employed Latest 2 year ITR",
+                "value": "If Employed Latest 2 year ITR",
+                "id": 18
+            },
+            {
+                "name": "Latest 6 month salary bank statement upto till date",
+                "value": "Latest 6 month salary bank statement upto till date",
+                "id": 8
+            },
+            {
+                "name": "Latest 3 month Payslips",
+                "value": "Latest 3 month Payslips",
+                "id": 9
+            }
+        ]
+    },
+    "3": {
+        "borrower":[
+        {
+            "name": "KYC-Pan and Aadhaar card",
+            "value": "KYC-Pan and Aadhaar card",
+            "id": 6
+        },
+        {
+            "name": "Passport size photograph",
+            "value": "Passport size photograph",
+            "id": 11
+        },
+        {
+            "name": "Work experience documents",
+            "value": "Work experience documents",
+            "id": 23
+        },
+        {
+            "name": "Salary slip as per occupation",
+            "value": "Salary slip as per occupation",
+            "id": 22
+        },
+        {
+            "name": "Latest 3 month bank statement upto till date",
+            "value": "Latest 3 month bank statement upto till date",
+            "id": 24
+        },
+        {
+            "name": "Other financial documents, if required",
+            "value": "Other financial documents, if required",
+            "id": 20
+        }
+    ]
+},
+    "4": {
+        "borrower":[
+        {
+            "name": "KYC-Pan and Aadhaar card",
+            "value": "KYC-Pan and Aadhaar card",
+            "id": 6
+        },
+        {
+            "name": "Passport size photograph",
+            "value": "Passport size photograph",
+            "id": 11
+        },
+        {
+            "name": "Work document 6 month bank statement upto till date and business proof as per occupation",
+            "value": "Work document 6 month bank statement upto till date and business proof as per occupation",
+            "id": 21
+        },
+        {
+            "name": "Other financial documents, if required",
+            "value": "Other financial documents, if required",
+            "id": 20
+        }
+    ]}
+}

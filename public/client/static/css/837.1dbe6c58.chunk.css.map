@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/837.1dbe6c58.chunk.css","mappings":"AAAA,uDACE,oBACF,CAEA,wBACI,oBACJ","sources":["pages/Dashboard/style.css"],"sourcesContent":[".ant-menu-item, .ant-menu-item-disabled, .ant-menu-light {\r\n  color: #fff !important;\r\n}\r\n\r\n.ant-menu-item-selected {\r\n    color: black !important;\r\n}\r\n"],"names":[],"sourceRoot":""}

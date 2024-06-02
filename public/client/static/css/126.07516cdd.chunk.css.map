@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/126.07516cdd.chunk.css","mappings":"AAAA,4BACI,SACJ,CAEA,QACI,wBACJ","sources":["pages/Admin/Home/styles.css"],"sourcesContent":[".leadSection>.ant-card-body{\r\n    padding: 0px;\r\n}\r\n\r\n.cardBg{\r\n    background-color: #d5d5d5;\r\n}"],"names":[],"sourceRoot":""}
